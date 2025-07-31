@@ -1,0 +1,36 @@
+﻿@model category
+@{
+    ViewData["Title"] = "addCategory";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<style>
+    .cat{
+        color: green;
+    }
+</style>
+
+<div id="layoutSidenav_content">
+    <main>
+        <div class="container-fluid px-4">
+            <div class="card-header">
+                <h3 class="text-center font-weight-light my-4">Add Category</h3>
+            </div>
+            <div class="card-body">
+                <h4 class="cat">@ViewBag.cat</h4>
+                <form method="post">
+                    <div class="row mb-3">
+                        <div class="col-md">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <input class="form-control" type="text" placeholder="Enter Category Name" asp-for="catName"/>
+                                <label asp-for="catName">Category Name</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-4 mb-0">
+                        <div class="d-grid"><button type="submit" class="btn btn-primary btn-block">Add Category</button></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+</div>

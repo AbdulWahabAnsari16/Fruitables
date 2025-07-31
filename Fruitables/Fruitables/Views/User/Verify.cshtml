@@ -1,0 +1,45 @@
+﻿@model verificationCode
+@{
+    ViewData["Title"] = "Verify";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+
+<style>
+    .err{
+        color:red;
+    }
+</style>
+<!-- Single Page Header start -->
+<div class="container-fluid page-header py-5">
+    <h1 class="text-center text-white display-6">Login</h1>
+    <ol class="breadcrumb justify-content-center mb-0">
+        <li class="breadcrumb-item"><a asp-controller="User" asp-action="Index">Home</a></li>
+        <li class="breadcrumb-item"><a href="~/UserAssets/#">Pages</a></li>
+        <li class="breadcrumb-item active text-white">Contact</li>
+    </ol>
+</div>
+<!-- Single Page Header End -->
+<!-- Contact Start -->
+<div class="container-fluid contact py-5">
+    <div class="container py-5">
+        <div class="p-5 bg-light rounded">
+            <div class="row g-4">
+
+                <center>
+                    <div class="col-lg-7">
+                        <form method="post">
+
+                            <input type="text" class="w-100 form-control border-0 py-3 mb-4" asp-for="vCode" placeholder="Enter Your Verification Code" required>
+
+                            <h3 class="err">@ViewBag.err</h3>
+
+                            <button class="w-100 btn form-control border-secondary py-3 bg-white text-primary " type="submit">Verify</button>
+                        </form>
+                        <a asp-action="Login" asp-controller="User">Login</a>
+                    </div>
+                </center>
+            </div>
+        </div>
+    </div>
+</div>

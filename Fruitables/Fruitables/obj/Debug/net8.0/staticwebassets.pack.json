@@ -1,0 +1,877 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fruitables.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Fruitables.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\AdminAssets\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\AdminAssets\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\AdminAssets\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\AdminAssets\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\AdminAssets\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\AdminAssets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\AdminAssets\\js\\datatables-simple.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\datatables-simple.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\AdminAssets\\js\\datatables-simple2.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\datatables-simple2.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\AdminAssets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\UserAssets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\css\\style.css",
+      "PackagePath": "staticwebassets\\UserAssets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\baner-1.png",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\baner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\banner-fruits.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\banner-fruits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\best-product-1.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\best-product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\best-product-2.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\best-product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\best-product-3.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\best-product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\best-product-4.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\best-product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\best-product-5.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\best-product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\best-product-6.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\best-product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\featur-1.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\featur-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\featur-2.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\featur-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\featur-3.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\featur-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\fruite-item-1.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\fruite-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\fruite-item-2.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\fruite-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\fruite-item-3.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\fruite-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\fruite-item-4.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\fruite-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\fruite-item-5.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\fruite-item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\fruite-item-6.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\fruite-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\hero-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\payment.png",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\single-item.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\single-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\vegetable-item-1.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\vegetable-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\vegetable-item-2.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\vegetable-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\vegetable-item-3.png",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\vegetable-item-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\vegetable-item-4.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\vegetable-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\vegetable-item-5.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\vegetable-item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\img\\vegetable-item-6.jpg",
+      "PackagePath": "staticwebassets\\UserAssets\\img\\vegetable-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\js\\main.js",
+      "PackagePath": "staticwebassets\\UserAssets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\UserAssets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\UserAssets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\productImgs\\063c7f9d-5a01-42ee-8673-fdd8dad321acbanana.jpg",
+      "PackagePath": "staticwebassets\\productImgs\\063c7f9d-5a01-42ee-8673-fdd8dad321acbanana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\productImgs\\080f8ca9-1f90-4b29-9048-e8d8bf51eaeeorange.jpg",
+      "PackagePath": "staticwebassets\\productImgs\\080f8ca9-1f90-4b29-9048-e8d8bf51eaeeorange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\productImgs\\2479a997-c5b8-4518-966e-ee58f0832610orange.jpg",
+      "PackagePath": "staticwebassets\\productImgs\\2479a997-c5b8-4518-966e-ee58f0832610orange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\productImgs\\5211214b-4608-466d-8f7d-f433bd287231banana.jpg",
+      "PackagePath": "staticwebassets\\productImgs\\5211214b-4608-466d-8f7d-f433bd287231banana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\productImgs\\68de57d1-ca37-4e8d-961e-9eaa3a30a68abanana.jpg",
+      "PackagePath": "staticwebassets\\productImgs\\68de57d1-ca37-4e8d-961e-9eaa3a30a68abanana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\productImgs\\be3f0c83-8cd5-4aad-a978-630621163a6aorange.jpg",
+      "PackagePath": "staticwebassets\\productImgs\\be3f0c83-8cd5-4aad-a978-630621163a6aorange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Fruitables\\Fruitables\\wwwroot\\productImgs\\ed04ff2d-1d90-4f6c-be52-707227cdb9b3banana.jpg",
+      "PackagePath": "staticwebassets\\productImgs\\ed04ff2d-1d90-4f6c-be52-707227cdb9b3banana.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Fruitables.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Fruitables.props",
+      "PackagePath": "build\\Fruitables.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Fruitables.props",
+      "PackagePath": "buildMultiTargeting\\Fruitables.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Fruitables.props",
+      "PackagePath": "buildTransitive\\Fruitables.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

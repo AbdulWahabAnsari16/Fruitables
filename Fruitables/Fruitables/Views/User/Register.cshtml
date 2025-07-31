@@ -1,0 +1,49 @@
+﻿@model user
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<style>
+    .err {
+        color: red;
+    }
+</style>
+
+<!-- Single Page Header start -->
+<div class="container-fluid page-header py-5">
+    <h1 class="text-center text-white display-6">Register</h1>
+    <ol class="breadcrumb justify-content-center mb-0">
+        <li class="breadcrumb-item"><a asp-controller="User" asp-action="Index">Home</a></li>
+        <li class="breadcrumb-item"><a href="~/UserAssets/#">Pages</a></li>
+        <li class="breadcrumb-item active text-white">Register</li>
+    </ol>
+</div>
+<!-- Single Page Header End -->
+<!-- Contact Start -->
+<div class="container-fluid contact py-5">
+    <div class="container py-5">
+        <div class="p-5 bg-light rounded">
+            <div class="row g-4">
+                <div class="col-12">
+                    @* <div class="text-center mx-auto" style="max-width: 700px;">
+                    <h1 class="text-primary">Get in touch</h1>
+                    <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                    </div> *@
+                </div>
+                <center>
+                    <div class="col-lg-7">
+                        <form method="post">
+                            <input type="text" class="w-100 form-control border-0 py-3 mb-4" asp-for="userName" placeholder="Enter Your Name" required>
+                            <input type="email" class="w-100 form-control border-0 py-3 mb-4" asp-for="userEmail" placeholder="Enter Your Email" required>
+                            <input type="password" class="w-100 form-control border-0 py-3 mb-4" asp-for="userPass" placeholder="Enter Your Password" required>
+                            <h3 class="err">@ViewBag.err</h3>
+                            <button class="w-100 btn form-control border-secondary py-3 bg-white text-primary " type="submit">Register</button>
+                        </form>
+                    </div>
+                </center>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Contact End -->
